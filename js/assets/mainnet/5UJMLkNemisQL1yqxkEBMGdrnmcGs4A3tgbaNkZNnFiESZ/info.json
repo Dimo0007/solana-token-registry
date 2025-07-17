@@ -1,0 +1,12 @@
+{
+  "name": "Ghoul",
+  "symbol": "GHOUL",
+  "decimals": 6,
+  "address": "5UJMLkNemisQL1yqxkEBMGdrnmcGs4A3tgbaNkZNnFiESZ",
+  "logoURI": "https://raw.githubusercontent.com/Dimo0007/solana-token-registry/master/assets/mainnet/5UJMLkNemisQL1yqxkEBMGdrnmcGs4A3tgbaNkZNnFiESZ/logo.png",
+  "tags": ["utility-token", "meme"],
+  "extensions": {
+    "website": "https://pump.fun/9WEZzr",
+    "twitter": "https://twitter.com/CoinGhoul95478"
+  }
+}
